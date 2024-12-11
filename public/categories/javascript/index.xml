@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Sarath blog</title>
+    <link>http://localhost:1313/categories/javascript/</link>
+    <description>Recent content in Javascript on Sarath blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Nov 2023 16:55:24 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring JavaScript Varieties with Fun Animation</title>
+      <link>http://localhost:1313/posts/my-fifth-post/</link>
+      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-fifth-post/</guid>
+      <description>&lt;h3 id=&#34;exploring-javascript-varieties-with-fun-animation&#34;&gt;&lt;strong&gt;Exploring JavaScript Varieties with Fun Animation&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The video linked &lt;a href=&#34;https://youtu.be/BNC6slYCj50?si=ylkfcYpXeJZNeKZH&#34;&gt;here&lt;/a&gt; offers an engaging and visually appealing explanation of key JavaScript concepts, suitable for both beginners and enthusiasts. Through creative animations and clear examples, it covers:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Variable Declarations&lt;/strong&gt;: Understanding &lt;code&gt;var&lt;/code&gt;, &lt;code&gt;let&lt;/code&gt;, and &lt;code&gt;const&lt;/code&gt; in an entertaining way.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scoping Differences&lt;/strong&gt;: How variables behave in different contexts, using simple and fun analogies.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hoisting Made Easy&lt;/strong&gt;: A clear demonstration of what happens when you use variables before they are declared.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Practical Tips&lt;/strong&gt;: Best practices for choosing the right declaration (&lt;code&gt;let&lt;/code&gt; or &lt;code&gt;const&lt;/code&gt;) in modern JavaScript.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This video simplifies complex concepts, making them accessible and memorable through interactive visuals. Whether you&amp;rsquo;re starting your JavaScript journey or refreshing your skills, this resource is a must-watch!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

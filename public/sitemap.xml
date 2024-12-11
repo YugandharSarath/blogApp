@@ -23,19 +23,7 @@
     <loc>http://localhost:1313/categories/html/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/jane-doe/</loc>
-    <lastmod>2023-11-22T16:55:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/john-doe/</loc>
-    <lastmod>2023-11-22T16:55:24+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/js/</loc>
-    <lastmod>2023-11-22T16:55:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/lama-dev/</loc>
-    <lastmod>2023-11-22T16:55:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/life/</loc>
@@ -59,7 +47,13 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-11-22T16:55:24+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/travel/</loc>
+    <lastmod>2023-11-22T16:55:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/yugandhar-sarath/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url>
 </urlset>

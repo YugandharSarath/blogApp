@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ExpressjS on Sarath blog</title>
+    <link>http://localhost:1313/categories/expressjs/</link>
+    <description>Recent content in ExpressjS on Sarath blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Nov 2023 16:55:24 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/expressjs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MERN Stack</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h3 id=&#34;mern-stack-a-full-stack-javascript-solution-for-modern-web-development&#34;&gt;&lt;strong&gt;MERN Stack: A Full-Stack JavaScript Solution for Modern Web Development&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;MERN&lt;/strong&gt; stack is a popular collection of technologies that allows developers to build powerful, full-stack web applications entirely in JavaScript. It combines &lt;strong&gt;MongoDB&lt;/strong&gt;, &lt;strong&gt;Express.js&lt;/strong&gt;, &lt;strong&gt;React.js&lt;/strong&gt;, and &lt;strong&gt;Node.js&lt;/strong&gt;, each contributing a vital role in the development process.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;MongoDB&lt;/strong&gt;: A flexible, scalable NoSQL database that stores data in JSON-like format, making it ideal for handling unstructured data and large datasets.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Express.js&lt;/strong&gt;: A minimalist web framework for Node.js that simplifies backend development by providing essential tools for routing, middleware, and API handling.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;React.js&lt;/strong&gt;: A JavaScript library for building dynamic, user-friendly interfaces. React uses components to create interactive UIs, making it easier to manage state and render updates efficiently.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Node.js&lt;/strong&gt;: A JavaScript runtime built on Chrome&amp;rsquo;s V8 engine, enabling server-side programming with JavaScript. It’s known for its high performance and scalability, making it perfect for real-time applications.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The MERN stack is highly favored for building single-page applications (SPAs), real-time applications, and dynamic websites. By using JavaScript across both the front-end and back-end, developers can streamline their development process, improve efficiency, and maintain a consistent codebase.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

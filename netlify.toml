@@ -1,0 +1,6 @@
+[build]
+  command = "hugo --config hugo.toml"
+  publish = "public"
+
+[context.production.environment]
+  HUGO_VERSION = "latest"  # or your specific version, e.g., "0.115.2"
