@@ -1,6 +1,6 @@
 baseURL = 'https://sarathblog.netlify.app/'
 languageCode = 'en-us'
-title = 'Lama dev blog'
+title = 'Sarath blog'
 
 paginate = 4
 

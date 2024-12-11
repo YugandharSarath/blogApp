@@ -6,6 +6,6 @@ description = ""
 image = ""
 imageBig = ""
 categories = ["general"]
-authors = ["Lama Dev"]
+authors = ["Sarath"]
 avatar = "/images/avatar.webp"
 +++
