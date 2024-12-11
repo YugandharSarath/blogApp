@@ -2,58 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://sarathblog.netlify.app/authors/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://sarathblog.netlify.app/categories/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/coding/</loc>
+    <loc>https://sarathblog.netlify.app/categories/coding/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/css/</loc>
+    <loc>https://sarathblog.netlify.app/categories/css/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/culture/</loc>
+    <loc>https://sarathblog.netlify.app/categories/expressjs/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/general/</loc>
+    <loc>https://sarathblog.netlify.app/categories/general/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/html/</loc>
+    <loc>https://sarathblog.netlify.app/posts/my-fifth-post/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/js/</loc>
+    <loc>https://sarathblog.netlify.app/posts/my-third-post/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/life/</loc>
+    <loc>https://sarathblog.netlify.app/categories/js/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-fifth-post/</loc>
+    <loc>https://sarathblog.netlify.app/authors/krishna/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://sarathblog.netlify.app/categories/life/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-fourth-post/</loc>
+    <loc>https://sarathblog.netlify.app/posts/my-first-post/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-second-post/</loc>
+    <loc>https://sarathblog.netlify.app/categories/mongodb/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-third-post/</loc>
+    <loc>https://sarathblog.netlify.app/categories/nodejs/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://sarathblog.netlify.app/posts/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://sarathblog.netlify.app/categories/react/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/travel/</loc>
+    <loc>https://sarathblog.netlify.app/posts/my-second-post/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/yugandhar-sarath/</loc>
+    <loc>https://sarathblog.netlify.app/categories/reactjs/</loc>
+    <lastmod>2023-11-22T16:55:24+01:00</lastmod>
+  </url><url>
+    <loc>https://sarathblog.netlify.app/authors/sarath/</loc>
+    <lastmod>2023-11-22T16:55:24+01:00</lastmod>
+  </url><url>
+    <loc>https://sarathblog.netlify.app/</loc>
+    <lastmod>2023-11-22T16:55:24+01:00</lastmod>
+  </url><url>
+    <loc>https://sarathblog.netlify.app/categories/ts/</loc>
+    <lastmod>2023-11-22T16:55:24+01:00</lastmod>
+  </url><url>
+    <loc>https://sarathblog.netlify.app/categories/web-development/</loc>
+    <lastmod>2023-11-22T16:55:24+01:00</lastmod>
+  </url><url>
+    <loc>https://sarathblog.netlify.app/authors/yugandhar/</loc>
+    <lastmod>2023-11-22T16:55:24+01:00</lastmod>
+  </url><url>
+    <loc>https://sarathblog.netlify.app/authors/yugandhar-sarath/</loc>
+    <lastmod>2023-11-22T16:55:24+01:00</lastmod>
+  </url><url>
+    <loc>https://sarathblog.netlify.app/posts/my-fourth-post/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url>
 </urlset>
