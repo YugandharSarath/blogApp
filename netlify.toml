@@ -3,5 +3,4 @@
   publish = "public"
 
 [context.production.environment]
-  HUGO_VERSION = v0.114.0
-
+  HUGO_VERSION = "latest"  # or your specific version, e.g., "0.115.2"
