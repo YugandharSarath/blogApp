@@ -6,8 +6,36 @@
     <description>Recent content in Categories on Sarath blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 16:55:24 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 10:14:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discipline</title>
+      <link>http://localhost:1313/categories/discipline/</link>
+      <pubDate>Tue, 23 Dec 2025 10:14:00 +0530</pubDate>
+      <guid>http://localhost:1313/categories/discipline/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Family</title>
+      <link>http://localhost:1313/categories/family/</link>
+      <pubDate>Tue, 23 Dec 2025 10:14:00 +0530</pubDate>
+      <guid>http://localhost:1313/categories/family/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/categories/life/</link>
+      <pubDate>Tue, 23 Dec 2025 10:14:00 +0530</pubDate>
+      <guid>http://localhost:1313/categories/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Society</title>
+      <link>http://localhost:1313/categories/society/</link>
+      <pubDate>Tue, 23 Dec 2025 10:14:00 +0530</pubDate>
+      <guid>http://localhost:1313/categories/society/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Coding</title>
       <link>http://localhost:1313/categories/coding/</link>
@@ -41,13 +69,6 @@
       <link>http://localhost:1313/categories/js/</link>
       <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
       <guid>http://localhost:1313/categories/js/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Life</title>
-      <link>http://localhost:1313/categories/life/</link>
-      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>http://localhost:1313/categories/life/</guid>
       <description></description>
     </item>
     <item>

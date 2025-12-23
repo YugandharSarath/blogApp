@@ -1,13 +1,28 @@
-const mode = localStorage.getItem("mode") || "";
-const toggle = document.querySelector(".toggle");
+const initialMode = localStorage.getItem("mode") || "";
+const toggles = document.querySelectorAll(".toggle");
 const body = document.querySelector("body");
+const burger = document.querySelector(".burger");
+const mobileMenu = document.querySelector(".mobileMenu");
 
-document.body.className = mode;
+document.body.className = initialMode;
 
-toggle.addEventListener("click", () => {
-  localStorage.setItem("mode", mode === "light" ? "" : "light")
-  body.classList.toggle("light")
-})
+function toggleTheme() {
+  const currentMode = body.classList.contains("light") ? "light" : "";
+  const newMode = currentMode === "light" ? "" : "light";
+  localStorage.setItem("mode", newMode);
+  body.classList.toggle("light");
+}
+
+toggles.forEach(toggle => {
+  toggle.addEventListener("click", toggleTheme);
+});
+
+if (burger) {
+  burger.addEventListener("click", () => {
+    burger.classList.toggle("active");
+    mobileMenu.classList.toggle("active");
+  });
+}
 
 const copyButtons = document.querySelectorAll(".copyLink");
 
