@@ -4,7 +4,7 @@ const body = document.querySelector("body");
 
 document.body.className = mode;
 
-toggle.addEventListener("click", ()=>{
+toggle.addEventListener("click", () => {
   localStorage.setItem("mode", mode === "light" ? "" : "light")
   body.classList.toggle("light")
 })
@@ -14,8 +14,8 @@ const copyButtons = document.querySelectorAll(".copyLink");
 copyButtons.forEach(button => {
   button.addEventListener("click", () => {
     const url = button.getAttribute("data-url");
-    const absoluteUrl = window.location.origin + url;
-    
+    const absoluteUrl = url.startsWith("http") ? url : window.location.origin + url;
+
     navigator.clipboard.writeText(absoluteUrl).then(() => {
       const originalHtml = button.innerHTML;
       button.innerHTML = '<span style="font-size: 12px; color: #10b981;">Copied!</span>';
