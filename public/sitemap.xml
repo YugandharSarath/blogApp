@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sarathblog.netlify.app/authors/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-12-23T23:25:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-23T23:25:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/categories/coding/</loc>
+    <loc>http://localhost:1313/categories/coding/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/categories/css/</loc>
+    <loc>http://localhost:1313/categories/css/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/categories/expressjs/</loc>
+    <loc>http://localhost:1313/categories/expressjs/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/categories/general/</loc>
+    <loc>http://localhost:1313/categories/general/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/posts/my-fifth-post/</loc>
+    <loc>http://localhost:1313/posts/my-fifth-post/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/posts/my-third-post/</loc>
+    <loc>http://localhost:1313/posts/my-third-post/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/categories/js/</loc>
+    <loc>http://localhost:1313/categories/js/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/authors/krishna/</loc>
+    <loc>http://localhost:1313/authors/krishna/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/categories/life/</loc>
+    <loc>http://localhost:1313/categories/life/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/categories/mongodb/</loc>
+    <loc>http://localhost:1313/categories/mongodb/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/categories/nodejs/</loc>
+    <loc>http://localhost:1313/categories/nodejs/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/posts/</loc>
+    <loc>http://localhost:1313/categories/react/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/categories/react/</loc>
+    <loc>http://localhost:1313/posts/my-second-post/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/posts/my-second-post/</loc>
+    <loc>http://localhost:1313/categories/reactjs/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/categories/reactjs/</loc>
+    <loc>http://localhost:1313/authors/sarath/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/authors/sarath/</loc>
+    <loc>http://localhost:1313/categories/ts/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/</loc>
+    <loc>http://localhost:1313/categories/web-development/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/categories/ts/</loc>
+    <loc>http://localhost:1313/authors/yugandhar/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/categories/web-development/</loc>
+    <loc>http://localhost:1313/authors/yugandhar-sarath/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://sarathblog.netlify.app/authors/yugandhar/</loc>
-    <lastmod>2023-11-22T16:55:24+01:00</lastmod>
-  </url><url>
-    <loc>https://sarathblog.netlify.app/authors/yugandhar-sarath/</loc>
-    <lastmod>2023-11-22T16:55:24+01:00</lastmod>
-  </url><url>
-    <loc>https://sarathblog.netlify.app/posts/my-fourth-post/</loc>
+    <loc>http://localhost:1313/posts/my-fourth-post/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url>
 </urlset>

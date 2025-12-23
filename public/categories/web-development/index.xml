@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Development on Sarath blog</title>
-    <link>https://sarathblog.netlify.app/categories/web-development/</link>
+    <link>http://localhost:1313/categories/web-development/</link>
     <description>Recent content in Web Development on Sarath blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Nov 2023 16:55:24 +0100</lastBuildDate>
-    <atom:link href="https://sarathblog.netlify.app/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zustand: The Easiest Way for State Management</title>
-      <link>https://sarathblog.netlify.app/posts/my-fourth-post/</link>
+      <link>http://localhost:1313/posts/my-fourth-post/</link>
       <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://sarathblog.netlify.app/posts/my-fourth-post/</guid>
+      <guid>http://localhost:1313/posts/my-fourth-post/</guid>
       <description>&lt;p&gt;State management is a critical aspect of modern web development, especially for React applications. While libraries like Redux are powerful, they can often feel overly complex for smaller or medium-sized projects. Enter &lt;strong&gt;Zustand&lt;/strong&gt;—a minimalist and efficient library for state management that simplifies the process without compromising flexibility or performance.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-zustand&#34;&gt;What is Zustand?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Zustand&lt;/strong&gt; (German for &amp;ldquo;state&amp;rdquo;) is a lightweight state management library for React. Created by the developers of Jotai and React-spring, it offers an intuitive API and eliminates boilerplate, making it a breeze to manage application state.&lt;/p&gt;</description>
     </item>
   </channel>

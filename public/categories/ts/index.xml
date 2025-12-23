@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ts on Sarath blog</title>
-    <link>https://sarathblog.netlify.app/categories/ts/</link>
+    <link>http://localhost:1313/categories/ts/</link>
     <description>Recent content in Ts on Sarath blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Nov 2023 16:55:24 +0100</lastBuildDate>
-    <atom:link href="https://sarathblog.netlify.app/categories/ts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/ts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Javascript Vs Typescript</title>
-      <link>https://sarathblog.netlify.app/posts/my-third-post/</link>
+      <link>http://localhost:1313/posts/my-third-post/</link>
       <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://sarathblog.netlify.app/posts/my-third-post/</guid>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
       <description>&lt;h3 id=&#34;javascript-vs-typescript-understanding-the-differences&#34;&gt;&lt;strong&gt;JavaScript vs TypeScript: Understanding the Differences&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;When building web applications, the debate between &lt;strong&gt;JavaScript&lt;/strong&gt; and &lt;strong&gt;TypeScript&lt;/strong&gt; is one that often comes up. Both are essential tools in the world of web development, but they serve different purposes and have distinct characteristics. Understanding these differences can help developers choose the best language for their project.&lt;/p&gt;&#xA;&lt;h4 id=&#34;what-is-javascript&#34;&gt;&lt;strong&gt;What is JavaScript?&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;JavaScript&lt;/strong&gt; is the most widely used scripting language for web development. It allows developers to add interactive elements to websites, from form validation to animations and more. JavaScript is &lt;strong&gt;dynamically typed&lt;/strong&gt;, meaning that types are assigned during runtime, which offers flexibility but can also lead to runtime errors if not properly managed.&lt;/p&gt;</description>
     </item>
   </channel>

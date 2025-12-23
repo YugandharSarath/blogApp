@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General on Sarath blog</title>
-    <link>https://sarathblog.netlify.app/categories/general/</link>
+    <link>http://localhost:1313/categories/general/</link>
     <description>Recent content in General on Sarath blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Nov 2023 16:55:24 +0100</lastBuildDate>
-    <atom:link href="https://sarathblog.netlify.app/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/general/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo static website builder</title>
-      <link>https://sarathblog.netlify.app/posts/my-fifth-post/</link>
+      <link>http://localhost:1313/posts/my-fifth-post/</link>
       <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://sarathblog.netlify.app/posts/my-fifth-post/</guid>
+      <guid>http://localhost:1313/posts/my-fifth-post/</guid>
       <description>&lt;h3 id=&#34;what-is-hugo&#34;&gt;What is Hugo?&lt;/h3&gt;&#xA;&lt;p&gt;Hugo is a fast and flexible static site generator. It’s written in Go and allows you to build a website that can be deployed anywhere. It&amp;rsquo;s incredibly fast, easy to use, and helps you create static websites that can be hosted on platforms like Netlify, GitHub Pages, or any server capable of serving static content.&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-use-hugo&#34;&gt;Why Use Hugo?&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Speed&lt;/strong&gt;: Hugo is designed for speed, meaning even large websites can be built in a matter of seconds.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flexibility&lt;/strong&gt;: It has a wide range of themes and customization options.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Markdown Support&lt;/strong&gt;: Posts and content are written in Markdown, making them easy to manage and format.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;setting-up-hugo&#34;&gt;Setting Up Hugo&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Install Hugo: You can install Hugo on your local machine from the official website.&lt;/li&gt;&#xA;&lt;li&gt;Create a New Site: Run the &lt;code&gt;hugo new site &amp;lt;sitename&amp;gt;&lt;/code&gt; command to create a new Hugo site.&lt;/li&gt;&#xA;&lt;li&gt;Add a Theme: Choose a theme from the Hugo themes website and add it to your site.&lt;/li&gt;&#xA;&lt;li&gt;Create Content: Write your posts in Markdown and define metadata in the front matter like I’ve shown above.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;&#xA;&lt;p&gt;Hugo makes creating static websites simple, fast, and flexible. Whether you’re building a personal blog or a more complex website, Hugo offers a great solution.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zustand: The Easiest Way for State Management</title>
-      <link>https://sarathblog.netlify.app/posts/my-fourth-post/</link>
+      <link>http://localhost:1313/posts/my-fourth-post/</link>
       <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://sarathblog.netlify.app/posts/my-fourth-post/</guid>
+      <guid>http://localhost:1313/posts/my-fourth-post/</guid>
       <description>&lt;p&gt;State management is a critical aspect of modern web development, especially for React applications. While libraries like Redux are powerful, they can often feel overly complex for smaller or medium-sized projects. Enter &lt;strong&gt;Zustand&lt;/strong&gt;—a minimalist and efficient library for state management that simplifies the process without compromising flexibility or performance.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-zustand&#34;&gt;What is Zustand?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Zustand&lt;/strong&gt; (German for &amp;ldquo;state&amp;rdquo;) is a lightweight state management library for React. Created by the developers of Jotai and React-spring, it offers an intuitive API and eliminates boilerplate, making it a breeze to manage application state.&lt;/p&gt;</description>
     </item>
   </channel>
