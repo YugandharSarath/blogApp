@@ -6,6 +6,8 @@ description = "A tribute to three generations of women—grandmother, aunt, and 
 categories = ["Family", "Women", "Resilience", "Inspiration"]
 authors = ["Yugandhar Sarath"]
 avatar = "/images/avatar.webp"
+image = "/images/women-empowerment.webp"
+imageBig = "/images/women-empowerment.webp"
 +++
 
 Before I knew what education meant, before I understood jobs, salaries, or success, I was already standing on the strength of three women in my family.
